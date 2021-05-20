@@ -1,5 +1,5 @@
 # Emby Kill Streams Plugin
-This plugin offers a couple options to kill transcoding 4k streams, streams that have been paused for xx min (set in config), and a fun nag warning to tell users not to transcode if set.
+This plugin offers a couple options to kill transcoding greater than 720p streams, streams that have been paused for xx min (set in config), and a fun nag warning to tell users not to transcode if set.
 
 
 Plugin Image
