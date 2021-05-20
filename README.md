@@ -17,3 +17,6 @@ Paused Example
 1080p Killed Example
 
 ![image](https://user-images.githubusercontent.com/60718477/119052773-65a5e980-b9c5-11eb-8057-19fdea06c100.png)
+
+Download and put in plugin folder .
+https://github.com/CyberPoison/Emby_KillStreams/releases/download/v1/KillStreams.dll
