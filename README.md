@@ -14,10 +14,6 @@ Paused Example
 
 ![](imgs/paused.png)
 
-4K Killed Example
+1080p Killed Example
 
-![](imgs/4kkilled.png)
-
-4K Killed Example
-
-![](imgs/transcodenag.png)
+![image](https://user-images.githubusercontent.com/60718477/119052773-65a5e980-b9c5-11eb-8057-19fdea06c100.png)
